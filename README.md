@@ -24,22 +24,6 @@
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wanghaoyu-No1&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=8BBF9F&icon_color=F2A7B8&text_color=6F6F6F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaoyu-No1&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=F2A7B8&text_color=6F6F6F" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=wanghaoyu-No1&hide_border=true&background=FFFFFF00&ring=8BBF9F&fire=F2A7B8&currStreakLabel=8BBF9F&sideLabels=6F6F6F&dates=A0A0A0" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=wanghaoyu-No1&style=flat-square&color=B7DCC4" />
-</p>
-
----
 
 ## Skills & Tools
 
