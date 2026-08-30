@@ -1,6 +1,6 @@
 <img align="right" width="220" src="repo-skye-wang_assets_fish-right.png" alt="mirror fish" />
 
-<h1>Hi 👋 I'm 王浩宇</h1>
+<h1>Hi👋 I'm 王浩宇 </h1>
 
 <p>
   <strong>Nanjing University Graduate Student</strong><br/>
@@ -9,9 +9,10 @@
 </p>
 
 <p>
-  soft, thoughtful, and curious about strategy, product, and AI 🌿🌸
+  ✨Among countless choices, walk towards yourself.
 </p>
 
+<br clear="right" />
 ---
 
 ## Identity Tags
