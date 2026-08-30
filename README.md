@@ -1,5 +1,4 @@
-
-<img align="right" width="220" src="assets/fish-right.png" alt="mirror fish" />
+<img align="right" width="220" src="repo-skye-wang_assets_fish-right.png" alt="mirror fish" />
 
 <h1>Hi 👋 I'm 王浩宇</h1>
 
