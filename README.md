@@ -25,28 +25,48 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 四子棋</h3>
+    <td width="33.33%" valign="top">
+      <h3 align="center">
+        <a href="https://wanghaoyu-no1.github.io/Persional-website/">🌷 Personal Homepage</a>
+      </h3>
       <p align="center">
-        A playful connect-four experience<br/>
-        built for fun, interaction, and light strategy.
+        A personal website that brings together who I am and how I express ideas.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Portfolio-F7CAD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Website-CFE8D6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Personal%20Brand-FADADD?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://wanghaoyu-no1.github.io/Persional-website/">
+          <img src="https://img.shields.io/badge/Explore-F7CAD0?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">
+        <a href="https://wanghaoyu-no1.github.io/game_FOUR-IN-A-ROW/index.html">🎮 四子棋</a>
+      </h3>
+      <p align="center">
+        A lightweight game built around strategy and play.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Game-F7CAD0?style=flat-square" />
         <img src="https://img.shields.io/badge/Interactive-CFE8D6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Fun-FADADD?style=flat-square" />
+        <img src="https://img.shields.io/badge/Playful-FADADD?style=flat-square" />
       </p>
       <p align="center">
-        <a href="四子棋产品链接">
-          <img src="https://img.shields.io/badge/View-Product-CFE8D6?style=for-the-badge" />
+        <a href="https://wanghaoyu-no1.github.io/game_FOUR-IN-A-ROW/index.html">
+          <img src="https://img.shields.io/badge/Play-CFE8D6?style=for-the-badge" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 英语默写</h3>
+    <td width="33.33%" valign="top">
+      <h3 align="center">
+        <a href="https://echoink.netlify.app/">📝 英语默写</a>
+      </h3>
       <p align="center">
-        A focused learning tool<br/>
-        for English dictation, repetition, and daily practice.
+        A simple tool for English dictation and daily practice.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Learning-F7CAD0?style=flat-square" />
@@ -54,8 +74,8 @@
         <img src="https://img.shields.io/badge/Tool-FADADD?style=flat-square" />
       </p>
       <p align="center">
-        <a href="英语默写产品链接">
-          <img src="https://img.shields.io/badge/View-Product-F7CAD0?style=for-the-badge" />
+        <a href="https://echoink.netlify.app/">
+          <img src="https://img.shields.io/badge/Try-F7CAD0?style=for-the-badge" />
         </a>
       </p>
     </td>
