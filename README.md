@@ -14,16 +14,55 @@
   <img src="fish-row.png" alt="fish row" width="100%" />
 </p>
 
-
-## Identity Tags
-
 <p align="center">
   <img src="https://img.shields.io/badge/Nanjing%20University-Graduate%20Student-F7CAD0?style=flat-square" />
   <img src="https://img.shields.io/badge/Strategy-Product%20Manager-CFE8D6?style=flat-square" />
   <img src="https://img.shields.io/badge/AI-Product%20Manager-FADADD?style=flat-square" />
 </p>
 
+---
+## Featured Products
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 四子棋</h3>
+      <p align="center">
+        A playful connect-four experience<br/>
+        built for fun, interaction, and light strategy.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Game-F7CAD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Interactive-CFE8D6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Fun-FADADD?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="四子棋产品链接">
+          <img src="https://img.shields.io/badge/View-Product-CFE8D6?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 英语默写</h3>
+      <p align="center">
+        A focused learning tool<br/>
+        for English dictation, repetition, and daily practice.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Learning-F7CAD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/English-CFE8D6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tool-FADADD?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="英语默写产品链接">
+          <img src="https://img.shields.io/badge/View-Product-F7CAD0?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 ## Skills & Tools
 
 <p align="center">
@@ -41,22 +80,8 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,figma,notion,git,github,vscode&perline=7" />
 </p>
 
----
-
-## Featured Projects
-
-- **AI Product Exploration**  
-  Building and observing AI-native product experiences, workflows, and lightweight demos.
-
-- **Strategy Thinking Notes**  
-  Capturing structured thoughts on product strategy, problem solving, and decision making.
-
-- **Graduate Research Journey**  
-  Recording readings, notes, and project ideas from the learning journey at Nanjing University.
 
 ---
-
-## Connect / Footer
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-wanghaoyu--No1-CFE8D6?style=flat-square&logo=github&logoColor=4F7A63" />
