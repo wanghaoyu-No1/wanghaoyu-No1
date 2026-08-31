@@ -30,7 +30,7 @@
         <a href="https://wanghaoyu-no1.github.io/Persional-website/">🌷 Personal Homepage</a>
       </h3>
       <p align="center">
-        A personal website that brings together who I am and how I express ideas.
+        A personal website for who I am and how I express ideas.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Portfolio-F7CAD0?style=flat-square" />
